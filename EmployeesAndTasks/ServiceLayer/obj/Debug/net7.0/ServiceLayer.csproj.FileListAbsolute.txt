@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\obj\Debug\net7.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\obj\Debug\net7.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\obj\Debug\net7.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\bin\Debug\net7.0\ServiceLayer.deps.json
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\bin\Debug\net7.0\ServiceLayer.dll
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\bin\Debug\net7.0\ServiceLayer.pdb
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\bin\Debug\net7.0\DataAccess.dll
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\bin\Debug\net7.0\DomainEntities.dll
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\bin\Debug\net7.0\DomainEntities.pdb
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\obj\Debug\net7.0\ServiceLayer.csproj.CopyComplete
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\obj\Debug\net7.0\ServiceLayer.dll
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\obj\Debug\net7.0\refint\ServiceLayer.dll
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\obj\Debug\net7.0\ServiceLayer.pdb
+C:\Users\User\Desktop\InternshipAssignment\EmployeesAndTasks\ServiceLayer\obj\Debug\net7.0\ref\ServiceLayer.dll
