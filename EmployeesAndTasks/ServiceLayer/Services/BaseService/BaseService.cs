@@ -9,7 +9,7 @@ namespace ServiceLayer.Services.BaseService
         where TEntity : BaseEntity
     {
         protected readonly TRepo Repo;
-        private readonly IMapper Mapper;
+        protected readonly IMapper Mapper;
 
         public BaseService(TRepo repo, IMapper mapper)
         {

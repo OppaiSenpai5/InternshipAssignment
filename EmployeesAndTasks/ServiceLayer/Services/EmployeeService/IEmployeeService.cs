@@ -6,5 +6,6 @@ namespace ServiceLayer.Services.EmployeeService
 {
     public interface IEmployeeService : IBaseService<EmployeeDto, Employee>
     {
+        IEnumerable<EmployeeDto> Top5Employees();
     }
 }

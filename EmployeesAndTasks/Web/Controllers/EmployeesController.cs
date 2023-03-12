@@ -50,5 +50,11 @@ namespace Web.Controllers
             this.employeeService.Delete(id);
             return NoContent();
         }
+
+        [HttpGet("top5")]
+        public IActionResult Top5Employees()
+        {
+            return Ok(this.employeeService.Top5Employees());
+        }
     }
 }
